@@ -8231,8 +8231,9 @@ h1, h2, h3, h4, h5,
       color: #fff;
       border: 5px solid #fff; }
     @media (max-width: 991.98px) {
-      .hero-wrap .text h1 {
-        font-size: 40px; } }
+      .hero-wrap .text h1 span{
+        font-size: 30px;
+        border: 0px; } }
   .hero-wrap .text h4 {
     font-size: 24px;
     font-weight: 400;
@@ -8262,7 +8263,8 @@ h1, h2, h3, h4, h5,
   position: relative;
   text-align: center;
   margin: 0 auto;
-  display: block; }
+  display: block; 
+  background: #3fa2cc;}
 
 .mouse-wheel {
   height: 70px;
