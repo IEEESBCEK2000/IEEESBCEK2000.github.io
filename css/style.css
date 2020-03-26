@@ -9586,3 +9586,37 @@ h1, h2, h3, h4, h5,
 .navbar-brand {
   font-weight: 700;
   font-size: 22px; }
+
+  .myaccordion {
+    margin: 0 auto;
+    -webkit-box-shadow: 0px 15px 21px -8px rgba(0, 0, 0, 0.14);
+    -moz-box-shadow: 0px 15px 21px -8px rgba(0, 0, 0, 0.14);
+    box-shadow: 0px 15px 21px -8px rgba(0, 0, 0, 0.14);
+    border: none;
+    background: #fff; }
+  
+  .myaccordion .card,
+  .myaccordion .card:last-child .card-header {
+    border: none;
+    background: transparent; }
+  
+  .myaccordion .card-header {
+    border-bottom-color: #e6e6e6;
+    background: transparent; }
+  
+  .myaccordion .fa {
+    font-size: 24px; }
+  
+  .myaccordion .btn {
+    width: 100%;
+    font-weight: normal;
+    color: #000;
+    padding: 0;
+    text-transform: capitalize;
+    letter-spacing: 0;
+    font-size: 20px; }
+  
+  .myaccordion .btn-link:hover,
+  .myaccordion .btn-link:focus {
+    text-decoration: none; }
+  
