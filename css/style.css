@@ -8168,6 +8168,8 @@ h1, h2, h3, h4, h5,
   position: relative; }
   .ftco-section.ftco-section-2 {
     padding: 6em 0; }
+    .ftco-section.ftco-section-47 {
+      padding: 2em 0; }
   .ftco-section .overlay {
     position: absolute;
     top: 0;
@@ -8851,7 +8853,8 @@ h1, h2, h3, h4, h5,
 .img {
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center; }
+  background-position: center center;
+ }
 
 .pagination {
   width: 100%; }
