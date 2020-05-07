@@ -1,0 +1,37 @@
+footer{
+  background-image: linear-gradient(rgb(0, 0, 0), rgb(51, 51, 51));
+  background-repeat: no-repeat;
+  
+  padding: 0px;
+}
+
+.footer-container{
+  max-width: 500px;
+  margin: auto;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  font-family: raleway;
+  align-items: center;
+  
+  
+}
+
+
+.social-media{
+  margin: 20px 0;
+ 
+}
+
+.social-media a{
+  color: #ffffff;
+  margin-right: 25px;
+  font-size: 22px;
+  
+}
+
+.social-media a:hover{
+  color: #3c3c3d;
+}
+
+
