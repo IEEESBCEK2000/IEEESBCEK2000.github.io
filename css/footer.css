@@ -1,5 +1,5 @@
 footer{
-  background-image: linear-gradient(rgb(65, 141, 228), rgb(175, 205, 230));
+  background-image: linear-gradient(rgb(65, 141, 228), rgb(91, 117, 138));
   background-repeat: no-repeat;
   
   padding: 0px;
@@ -31,7 +31,7 @@ footer{
 }
 
 .social-media a:hover{
-  color: #51c7db;
+  color: #293e9b;
 }
 
 
