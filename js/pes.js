@@ -11,7 +11,6 @@ if (window.VANTA) window.VANTA.BIRDS({
   colorMode: "lerp"
 })
 }
-$.push(function() {
-  setVanta()
-  window.edit_page.Event.subscribe( "Page.beforeNewOneFadeIn", setVanta )
-})
+setVanta()
+window.edit_page.Event.subscribe( "Page.beforeNewOneFadeIn", setVanta )
+
