@@ -1,5 +1,5 @@
 var setVanta = ()=>{
-if (window.VANTA) window.VANTA.BIRDS({
+window.VANTA.BIRDS({
   el: ".pes",
   mouseControls: true,
   touchControls: true,
