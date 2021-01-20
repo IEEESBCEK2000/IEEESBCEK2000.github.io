@@ -12,5 +12,5 @@ if (window.VANTA) window.VANTA.BIRDS({
 })
 }
 setVanta()
-window.edit_page.Event.subscribe( "Page.beforeNewOneFadeIn", setVanta )
+window.edit_page.Event.subscribe( "Page.beforeNewOneFadeIn", setVanta );
 
