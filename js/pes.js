@@ -1,6 +1,6 @@
  
 VANTA.BIRDS({
-  el: "#bird",
+  el: "#pes",
   mouseControls: true,
   touchControls: true,
   gyroControls: false,
