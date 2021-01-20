@@ -22,6 +22,7 @@ if (window.VANTA) {
   scale: 1.00,
   scaleMobile: 1.00,
   colorMode: "lerp"
+    })
 }
 }
 setVanta()
