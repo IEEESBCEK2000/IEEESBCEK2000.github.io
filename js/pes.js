@@ -1,5 +1,5 @@
  
-VANTA.BIRDS({
+test.BIRDS({
   el: ".pes",
   mouseControls: true,
   touchControls: true,
