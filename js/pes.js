@@ -1,5 +1,5 @@
- 
-VANTA.BIRDS({
+var setVanta = ()=>{
+if (window.VANTA) window.VANTA.BIRDS({
   el: ".pes",
   mouseControls: true,
   touchControls: true,
@@ -9,4 +9,9 @@ VANTA.BIRDS({
   scale: 1.00,
   scaleMobile: 1.00,
   colorMode: "lerp"
+})
+}
+_strk.push(function() {
+  setVanta()
+  window.edit_page.Event.subscribe( "Page.beforeNewOneFadeIn", setVanta )
 })
