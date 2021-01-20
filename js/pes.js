@@ -1,4 +1,5 @@
-VANTA.BIRDS({
+var setVanta = ()=>{
+if (window.VANTA) window.VANTA.BIRDS({
   el: ".pes",
   mouseControls: true,
   touchControls: true,
@@ -9,3 +10,5 @@ VANTA.BIRDS({
   scaleMobile: 1.00,
   colorMode: "lerp"
 })
+}
+setVanta()
