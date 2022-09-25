@@ -9642,9 +9642,6 @@ h1, h2, h3, h4, h5,
   .myaccordion .btn-link:focus {
     text-decoration: none; }
   
-    body {
-      margin-top: 20px;
-  }
   .timeline_area {
       position: relative;
       z-index: 1;
