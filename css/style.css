@@ -8319,9 +8319,9 @@ h1, h2, h3, h4, h5,
   font-weight: 400; }
 
 .heading-section {
-  font-size: 30px; }
+  font-size: 50px; }
   .heading-section small {
-    font-size: 18px;
+    font-size: 30px;
     font-weight: 400; }
 
 .btn {
@@ -9758,4 +9758,10 @@ h1, h2, h3, h4, h5,
   .single-timeline-area .single-timeline-content:hover .timeline-text h6,
   .single-timeline-area .single-timeline-content:focus .timeline-text h6 {
       color: #3f43fd;
+  }
+
+
+  .exeimage{
+    height: 200px;
+    width: 200px;
   }
