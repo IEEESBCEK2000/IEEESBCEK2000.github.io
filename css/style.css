@@ -13,6 +13,7 @@
   --orange: #fd7e14;
   --yellow: #ffc107;
   --green: #28a745;
+  --green: #28a745;
   --teal: #20c997;
   --cyan: #17a2b8;
   --white: #fff;
@@ -319,7 +320,7 @@ h4, .h4 {
   font-size: 1.5rem; }
 
 h5, .h5 {
-  font-size: 1.25rem; }
+  font-size: 1.7rem; }
 
 h6, .h6 {
   font-size: 1rem; }
@@ -3778,7 +3779,7 @@ input[type="button"].btn-block {
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: #fff;
+  background-color: #e9e9e9;
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem; }
@@ -8319,9 +8320,9 @@ h1, h2, h3, h4, h5,
   font-weight: 400; }
 
 .heading-section {
-  font-size: 30px; }
+  font-size: 50px; }
   .heading-section small {
-    font-size: 18px;
+    font-size: 30px;
     font-weight: 400; }
 
 .btn {
@@ -9758,4 +9759,33 @@ h1, h2, h3, h4, h5,
   .single-timeline-area .single-timeline-content:hover .timeline-text h6,
   .single-timeline-area .single-timeline-content:focus .timeline-text h6 {
       color: #3f43fd;
+  }
+
+
+  .exeimage{
+    height: 200px;
+    width: 200px;
+  }
+
+  .bg-blue {
+    background-color: #00d2ff;
+  }
+  .bg-violet {
+    background-color: #a80cff;
+  }
+  .bg-green {
+    background-color: #14c730;
+  }
+
+  .btn-blue {
+    color: white;
+    background-color: #00d2ff;
+  }
+  .btn-violet {
+    color: white;
+    background-color: #a80cff;
+  }
+  .btn-green {
+    color: white;
+    background-color: #14c730;
   }
