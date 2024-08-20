@@ -9765,6 +9765,7 @@ h1, h2, h3, h4, h5,
   .exeimage{
     height: 200px;
     width: 200px;
+
   }
 
   .bg-blue {
@@ -9788,4 +9789,5 @@ h1, h2, h3, h4, h5,
   .btn-green {
     color: white;
     background-color: #14c730;
+
   }
